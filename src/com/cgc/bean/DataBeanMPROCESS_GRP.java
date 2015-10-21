@@ -1,5 +1,6 @@
 package com.cgc.bean;
-import java.sql.*;
+
+import java.sql.Timestamp;
 public class DataBeanMPROCESS_GRP {
 	private String procgrp_id;
 	private String name_t;

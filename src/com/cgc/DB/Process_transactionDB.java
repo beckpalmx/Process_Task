@@ -4,7 +4,9 @@
  */
 package com.cgc.DB;
 
+import com.cgc.Util.DateUtil;
 import com.cgc.bean.DataBean_Transaction_Process;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -12,8 +14,6 @@ import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Random;
-import com.cgc.Util.DateUtil;
 
 
 /**

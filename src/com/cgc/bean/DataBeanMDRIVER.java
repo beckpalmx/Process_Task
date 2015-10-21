@@ -1,6 +1,6 @@
 package com.cgc.bean;
 
-import java.sql.*;
+import java.sql.Timestamp;
 
 public class DataBeanMDRIVER {
 	private String driver_id;

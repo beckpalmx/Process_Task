@@ -1,5 +1,6 @@
 package com.cgc.bean;
-import java.sql.*;
+
+import java.sql.Timestamp;
 public class DataBeanMSTD_COST_SUB {
 	private String std_sub_id;
 	private String std_id;

@@ -1,0 +1,4 @@
+sc create Weight_Process_Task_Run binPath= "D:\weight_imp_process\Process_Task.exe" DisplayName= "Weight_Process_Task_Run" start= auto
+
+
+sc create Weight_Process_Task_Run_Service displayname= "Weight_Process_Task_Run_Service" type= own error= severe obj= ".\administrator" password= Systemadmin007 binPath= "D:\weight_imp_process\Process_Task.exe"

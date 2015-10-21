@@ -6,12 +6,12 @@ package com.cgc.engine;
 
 import com.cgc.DB.DBConnect;
 import com.cgc.DB.IMP_Process_transactionDB;
+
 import java.sql.Connection;
+import java.sql.PreparedStatement;
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.Random;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
 
 /**
  *

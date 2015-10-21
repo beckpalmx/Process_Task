@@ -5,8 +5,6 @@
 
 package com.cgc.bean;
 
-import java.sql.Timestamp;
-
 /**
  *
  * @author Beck

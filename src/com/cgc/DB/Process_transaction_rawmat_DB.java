@@ -5,18 +5,13 @@
 package com.cgc.DB;
 
 import com.cgc.bean.DataBean_Transaction_Process;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Timestamp;
-import java.util.ArrayList;
 import java.text.DecimalFormat;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Random;
-import java.math.*;
+import java.util.ArrayList;
 
 
 /**

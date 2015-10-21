@@ -1,9 +1,9 @@
 package com.cgc.Util;
 
+import com.cgc.DB.DBConnect;
+
 import java.sql.Connection;
 import java.sql.ResultSet;
-
-import com.cgc.DB.DBConnect;
 
 public class UtiDatabase {
 

@@ -4,12 +4,8 @@
  */
 package com.cgc.engine;
 
-import com.cgc.DB.Process_transactionDB;
-import com.cgc.DB.Process_transaction_rawmat_DB;
-import com.cgc.DB.Check_MProduct_Price;
-import com.cgc.DB.Transfer_MProduct_Price;
-import com.cgc.DB.Transfer_MRawmat_Price;
-import com.cgc.DB.Check_MRawmat_Price;
+import com.cgc.DB.*;
+
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.Random;

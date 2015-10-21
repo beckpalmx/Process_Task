@@ -4,10 +4,15 @@
  */
 package com.cgc.DB;
 
-import java.sql.*;
-import java.io.*;
-import java.util.Properties;
 import org.apache.commons.codec.binary.Base64;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.util.Properties;
 
 public class DBConnect {
 

@@ -5,9 +5,10 @@
 package com.cgc.engine;
 
 import com.cgc.DB.Process_transaction_rawmat_friction_summaryDB;
-import java.util.Random;
-import java.text.SimpleDateFormat;
+
 import java.sql.Timestamp;
+import java.text.SimpleDateFormat;
+import java.util.Random;
 
 /**
  *

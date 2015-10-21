@@ -1,10 +1,6 @@
 package com.cgc.Util;
 
-import com.cgc.DB.DBConnect;
-import java.sql.Connection;
-import java.sql.ResultSet;
 import java.text.DateFormat;
-import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

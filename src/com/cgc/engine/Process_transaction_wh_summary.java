@@ -5,9 +5,10 @@
 package com.cgc.engine;
 
 import com.cgc.DB.Process_transaction_wh_summaryDB;
-import java.util.Random;
-import java.text.SimpleDateFormat;
+
 import java.sql.Timestamp;
+import java.text.SimpleDateFormat;
+import java.util.Random;
 
 
 public class Process_transaction_wh_summary {
