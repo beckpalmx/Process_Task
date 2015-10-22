@@ -15,11 +15,6 @@ import java.util.Calendar;
 import java.util.Timer;
 import java.util.TimerTask;
 
-<<<<<<< HEAD
-=======
-import java.lang.*;
-
->>>>>>> origin/master
 public class Process_Task {
 
     public static void main(String args[]) {
@@ -38,26 +33,18 @@ public class Process_Task {
 
                 Calendar now = Calendar.getInstance();
 
-<<<<<<< HEAD
                 Double D_hour_minute = new Double(now.get(Calendar.HOUR_OF_DAY)) + (new Double(now.get(Calendar.MINUTE)) / 100);
-=======
-                Double D_hour_minute = new Double(now.get(Calendar.HOUR_OF_DAY)) + (new Double(now.get(Calendar.MINUTE))/100);
->>>>>>> origin/master
 
                 //System.out.println("Before D_hour_minute " + D_hour_minute);
 
                 if (D_hour_minute >= 8.00 && D_hour_minute <= 17.00) {
 
-<<<<<<< HEAD
                     Rotation_log();
 
-=======
->>>>>>> origin/master
                     Write_log("------------------------------------------------");
 
                     Write_log("Condition = True And D_hour_minute = " + D_hour_minute);
 
-<<<<<<< HEAD
                     Process_Transaction();
 
                 } else {
@@ -66,16 +53,6 @@ public class Process_Task {
 
                 }
 
-=======
-                    //System.out.println("In Loop D_hour_minute " + D_hour_minute);
-
-                    Stop_mySQl();
-
-                    Process_Transaction();
-
-                    Start_mySQl();
-                }
->>>>>>> origin/master
             }
         }, 0, 950000);
 
@@ -85,18 +62,12 @@ public class Process_Task {
 
         try {
 
-<<<<<<< HEAD
-=======
-            //File source = new File("S:\\AppServ\\MySQL\\data\\genius_data");
-
->>>>>>> origin/master
             File source = new File("\\\\BW-RAWMAT\\c\\AppServ\\MySQL\\data\\genius_data");
 
             File dest = new File("D:\\AppServ\\MySQL\\data\\genius_data");
 
             File file_del = new File("D:\\AppServ\\MySQL\\data\\genius_data");
 
-<<<<<<< HEAD
             try {
 
                 //FileUtils.deleteDirectory(file_del);
@@ -190,60 +161,18 @@ public class Process_Task {
         }
 
 
-=======
-            String content = "Process Time ";
-
-            String result_process = "False";
-
-            //File source = new File("S:\\OtherSource\\MySQL-DATA");
-            //File dest = new File("D:\\Temp\\MySQL\\DATA");
-
-
-            try {
-
-                //String msg = "Start Copy File ... From : " + source + " : " + new Timestamp(new java.util.Date().getTime()).toString();
-
-                //System.out.println(msg1);
-
-                Write_log("Start Copy File ... From : " + source + " : " + new Timestamp(new java.util.Date().getTime()).toString());
-
-                //FileUtils.deleteDirectory(file_del);
-
-                FileUtils.copyDirectory(source, dest);
-
-                //msg = "End Copy File ... To : " + dest + " : " + new Timestamp(new java.util.Date().getTime()).toString();
-
-                //System.out.println(msg2);
-
-                Write_log("End Copy File ... To : " + dest + " : " + new Timestamp(new java.util.Date().getTime()).toString());
-
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-
-        } catch (Exception ex) {
-            Write_log("ERROR");
-        }
-
->>>>>>> origin/master
     }
 
     private static void Write_log(String msg) {
 
         try {
 
-<<<<<<< HEAD
             if (!msg.equals("") || msg != null) {
                 msg = msg + System.getProperty("line.separator");
                 System.out.println("msg =" + msg);
             }
 
             File file = new File("D:\\weight_imp_process\\Log\\process_log_weight.txt");
-=======
-            String data = msg + System.getProperty("line.separator");
-
-            File file = new File("D:\\process_log_weight.txt");
->>>>>>> origin/master
 
             //if file doesnt exists, then create it
             if (!file.exists()) {
@@ -253,11 +182,7 @@ public class Process_Task {
             //true = append file
             FileWriter fileWritter = new FileWriter(file, true);
             BufferedWriter bufferWritter = new BufferedWriter(fileWritter);
-<<<<<<< HEAD
             bufferWritter.write(msg);
-=======
-            bufferWritter.write(data);
->>>>>>> origin/master
             bufferWritter.close();
 
             //System.out.println("Done");
@@ -266,35 +191,6 @@ public class Process_Task {
             e.printStackTrace();
         }
 
-<<<<<<< HEAD
     }
 
-=======
-
-    }
-
-    private static void Stop_mySQl() {
-
-        try {
-            Process process1 = Runtime.getRuntime().exec("net STOP MySQL");
-            //System.out.println("STOP MySQL..");
-            Write_log("STOP MySQL.. " + new Timestamp(new java.util.Date().getTime()).toString());
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-    }
-
-    private static void Start_mySQl() {
-
-        try {
-            Process process1 = Runtime.getRuntime().exec("net START MySQL");
-            //System.out.println("START MySQL..");
-            Write_log("START MySQL.. " + new Timestamp(new java.util.Date().getTime()).toString());
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-    }
->>>>>>> origin/master
 }

@@ -2,205 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43c9ec7-0f80-40f6-bb19-b1a73067af8d" name="Default" comment="">
-<<<<<<< HEAD
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Process_Task_jar.xml" />
-=======
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Process_Task_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
->>>>>>> origin/master
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\.idea\artifacts\Process_Day_Task_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\Process_Day_Task.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\artifacts\Process_Day_Task_jar\Process_Day_Task.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\META-INF\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\Process_Day_Task.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Check_MProduct_Price.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Check_MRawmat_Price.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\DBConnect.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\IMP_Process_transactionDB.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Process_transactionDB.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Process_transaction_rawmat_DB.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Process_transaction_rawmat_friction_summaryDB.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Process_transaction_wh_summaryDB.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Transfer_MProduct_Price.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\DB\Transfer_MRawmat_Price.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\Util\DateUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\Util\OS_Type.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\Util\PeriodDate.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\Util\UtiDatabase.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\CarbonBurnOutBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\CostProductBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_048.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_049.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_050.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_051.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_052.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_D_carbon_analysis_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_D_carbon_analysis_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_D_carbon_friction_burn_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_D_carbon_send_product_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCS_D_carbon_send_product_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCalculate.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanCus_Sup.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanDHeaderAnalyze.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_FUEL_Receive.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_Firewood_Daily_Detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_Firewood_Daily_Header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_adjust_product_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_adjust_product_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_analyze_packing_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_analyze_packing_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_analyze_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_analyze_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_burn_in_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_burn_in_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_burn_out_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_burn_out_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_friction_burn.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_friction_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_friction_receive_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_friction_receive_detail_1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_friction_receive_detail_2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_friction_receive_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_friction_withdraw_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_out_analysis_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_out_analysis_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_return_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_return_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_withdraw_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_carbon_withdraw_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_cost_product.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_data_import_from_excel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_job_order_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_job_order_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_move_product_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_move_product_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_packing_product_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_packing_product_detail_prod.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_packing_product_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_packing_req_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_packing_req_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_detail_prod.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_process_track_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_process_track_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_process_track_result.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_track_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_track_detail_prod.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_product_receive_track_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_qc_report_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_qc_report_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_quality_rawmatt_receive_rate_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_quality_rawmatt_receive_rate_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_rawmatt_analyze_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_rawmatt_analyze_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_rawmatt_bigbag_withdraw_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_rawmatt_bigbag_withdraw_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_rawmatt_withdraw_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_rawmatt_withdraw_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_requisition_product_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_requisition_product_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_summary_product_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_summary_product_header.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_ticketbuy.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_ticketbuy_doc.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanD_transaction_product_receive.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanError_Stock_Item.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMDRIVER.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMLocation.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMPROCESS.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMPROCESS_GRP.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMSTD_COST_MAIN.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMSTD_COST_SUB.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanM_iodine.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanM_machine.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanM_quality_rawmatt_receive.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMcarbon_size.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMemD_carbon_friction_receive.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMjob_type.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMjob_type_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMoverhead.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMproduction_place.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMshift.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanMuser_Account.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanPeriodDate.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanSendMail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanT_transaction_stock.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeanT_warehouse_item.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_D_rawmatt_receive.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Display_Document_Status.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_MData_export.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Mcompany.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Production_Process.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Screen_Process.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Screen_Report.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Temp.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Transaction_Process.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Transaction_Process_Production_Result.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Transaction_Process_Summary.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Transaction_Process_wh_summary.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_Upload.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_burn_out_and_split.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_burn_out_and_split_2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_burn_out_and_split_3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBean_burn_out_and_split_4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DataBeand_carbon_send_product_detail.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\DeptBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\EmpBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\LoginlogBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\LookupBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\MenuBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\MessageBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\PcatBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\PgroupBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\PrintReport_Rawmat_bigbag_balance.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\PriviledgeBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\Process_Log_Bean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\ProductBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\ProductPriceBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\PtypeBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\ReportParamBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\ScreenBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\T_StockBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\T_WareHouseBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\UserBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\bean\WarehouseBean.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\engine\IMP_Process_transaction.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\engine\Process_transaction.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\engine\Process_transaction_rawmat_friction_summary.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\out\production\Process_Day_Task\com\cgc\engine\Process_transaction_wh_summary.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\src\Process_Day_Task.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Check_MProduct_Price.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Check_MProduct_Price.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Check_MRawmat_Price.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Check_MRawmat_Price.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/DBConnect.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/DBConnect.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMDRIVER.java" afterPath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMDRIVER.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMPROCESS_GRP.java" afterPath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMPROCESS_GRP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMSTD_COST_MAIN.java" afterPath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMSTD_COST_MAIN.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMSTD_COST_SUB.java" afterPath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMSTD_COST_SUB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMshift.java" afterPath="$PROJECT_DIR$/src/com/cgc/bean/DataBeanMshift.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/Util/DateUtil.java" afterPath="$PROJECT_DIR$/src/com/cgc/Util/DateUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/engine/IMP_Process_transaction.java" afterPath="$PROJECT_DIR$/src/com/cgc/engine/IMP_Process_transaction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/IMP_Process_transactionDB.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/IMP_Process_transactionDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/Util/PeriodDate.java" afterPath="$PROJECT_DIR$/src/com/cgc/Util/PeriodDate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/engine/Process_transaction.java" afterPath="$PROJECT_DIR$/src/com/cgc/engine/Process_transaction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Process_transactionDB.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Process_transactionDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Process_transaction_rawmat_DB.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Process_transaction_rawmat_DB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/engine/Process_transaction_rawmat_friction_summary.java" afterPath="$PROJECT_DIR$/src/com/cgc/engine/Process_transaction_rawmat_friction_summary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Process_transaction_rawmat_friction_summaryDB.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Process_transaction_rawmat_friction_summaryDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/engine/Process_transaction_wh_summary.java" afterPath="$PROJECT_DIR$/src/com/cgc/engine/Process_transaction_wh_summary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Process_transaction_wh_summaryDB.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Process_transaction_wh_summaryDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Transfer_MProduct_Price.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Transfer_MProduct_Price.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/DB/Transfer_MRawmat_Price.java" afterPath="$PROJECT_DIR$/src/com/cgc/DB/Transfer_MRawmat_Price.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cgc/Util/UtiDatabase.java" afterPath="$PROJECT_DIR$/src/com/cgc/Util/UtiDatabase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="D:\workspace_intellij\Process_Task\src\com\cgc\bean\DataBeanMessage.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Process_Task.java" afterPath="$PROJECT_DIR$/src/Process_Task.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Process_Task.iws" />
@@ -227,27 +30,15 @@
       <file leaf-file-name="Process_Task.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="-0.45868465">
-              <caret line="111" column="50" selection-start-line="111" selection-start-column="50" selection-end-line="111" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.6666667">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-=======
-            <state vertical-scroll-proportion="0.0">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#653#1476#0" expanded="true" />
-                <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="Network_Util.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cgc/Util/Network_Util.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -260,17 +51,6 @@
       </file>
     </leaf>
   </component>
-=======
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
->>>>>>> origin/master
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -282,12 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/CheckTime.java" />
-        <option value="$PROJECT_DIR$/src/com/cgc/Util/CheckTime.java" />
->>>>>>> origin/master
         <option value="$PROJECT_DIR$/src/Process_Task.java" />
       </list>
     </option>
@@ -296,7 +70,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-<<<<<<< HEAD
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -304,21 +77,13 @@
       </MavenGeneralSettings>
     </option>
   </component>
-=======
->>>>>>> origin/master
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
-    <option name="x" value="1" />
-    <option name="width" value="1362" />
-    <option name="height" value="740" />
-=======
-    <option name="x" value="-4" />
+    <option name="x" value="-7" />
     <option name="width" value="1370" />
-    <option name="height" value="748" />
->>>>>>> origin/master
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -327,19 +92,11 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-<<<<<<< HEAD
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-=======
-    <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
->>>>>>> origin/master
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -350,89 +107,7 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-<<<<<<< HEAD
     <panes />
-=======
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cgc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Process_Task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cgc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
->>>>>>> origin/master
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
@@ -452,10 +127,6 @@
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="process_task" />
-<<<<<<< HEAD
-=======
-    <property name="ignore_missing_gitignore" value="true" />
->>>>>>> origin/master
   </component>
   <component name="RunManager" selected="Application.Process_Task">
     <configuration default="false" name="Process_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -665,12 +336,6 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-<<<<<<< HEAD
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <method />
-    </configuration>
-=======
->>>>>>> origin/master
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -679,41 +344,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-<<<<<<< HEAD
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-=======
->>>>>>> origin/master
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -763,25 +393,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-<<<<<<< HEAD
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-=======
->>>>>>> origin/master
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Application.Process_Task" />
     </list>
@@ -817,7 +428,6 @@
       <workItem from="1444122795364" duration="10276000" />
       <workItem from="1444275256424" duration="8000" />
       <workItem from="1444287785195" duration="1837000" />
-<<<<<<< HEAD
       <workItem from="1444290872384" duration="1039000" />
       <workItem from="1444293548574" duration="2677000" />
       <workItem from="1444309888994" duration="1853000" />
@@ -832,75 +442,42 @@
       <workItem from="1444797865740" duration="1301000" />
       <workItem from="1444901794505" duration="683000" />
       <workItem from="1444902666554" duration="133000" />
-=======
-      <workItem from="1444290621592" duration="1389000" />
-      <workItem from="1444295402131" duration="1096000" />
-      <workItem from="1444313198773" duration="812000" />
-      <workItem from="1444353957490" duration="16379000" />
->>>>>>> origin/master
+      <workItem from="1445476105773" duration="165000" />
+      <workItem from="1445476378236" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="60184000" />
+    <option name="totallyTimeSpent" value="60410000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1362" height="740" extended-state="0" />
-    <editor active="false" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-=======
-    <option name="totallyTimeSpent" value="45066000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1370" height="748" extended-state="0" />
+    <frame x="-7" y="0" width="1370" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
->>>>>>> origin/master
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32695374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36885247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-=======
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37194127" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> origin/master
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32695374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37001595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-=======
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963072" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
->>>>>>> origin/master
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -915,13 +492,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-<<<<<<< HEAD
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
-=======
-    <breakpoint-manager />
->>>>>>> origin/master
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -935,8 +508,42 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cgc/Util/Network_Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cgc/Util/Network_Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -955,7 +562,6 @@
           <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -974,11 +580,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -989,12 +590,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1005,12 +600,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1021,12 +610,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1037,8 +620,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
           </folding>
         </state>
       </provider>
@@ -1049,11 +630,6 @@
           <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1064,12 +640,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1080,12 +650,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1096,12 +660,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1112,12 +670,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1128,8 +680,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
           </folding>
         </state>
       </provider>
@@ -1140,11 +690,6 @@
           <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1155,12 +700,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1171,12 +710,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
@@ -1187,24 +720,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-=======
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1215,7 +730,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1226,7 +740,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1237,7 +750,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1248,62 +760,31 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-=======
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/JAVA/JDK7/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6802721">
-          <caret line="622" column="7" selection-start-line="622" selection-start-column="7" selection-end-line="622" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17435898">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JAVA/JDK7/src.zip!/java/util/TimerTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24615385">
-          <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cgc/Util/OS_Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cgc/Util/CheckTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2034188">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
->>>>>>> origin/master
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-<<<<<<< HEAD
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/java/jdk7/src.zip!/java/lang/Runtime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6802721">
           <caret line="622" column="7" selection-start-line="622" selection-start-column="7" selection-end-line="622" selection-end-column="7" />
@@ -1320,19 +801,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Process_Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.45868465">
-          <caret line="111" column="50" selection-start-line="111" selection-start-column="50" selection-end-line="111" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-=======
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#653#1476#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
->>>>>>> origin/master
           </folding>
         </state>
       </provider>
