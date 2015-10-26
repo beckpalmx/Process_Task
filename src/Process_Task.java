@@ -142,7 +142,7 @@ public class Process_Task {
         System.out.println("oldfile = " + oldfile);
         System.out.println("newfile = " + newfile);
 
-        if (oldfile.length() >= 500000) {
+        if (oldfile.length() >= 10000) {
             if (oldfile.renameTo(newfile)) {
                 Write_log("");
                 System.out.println("Rename succesful");
@@ -151,7 +151,7 @@ public class Process_Task {
             }
         }
 
-        if (check_oldfile.length() >= 500000) {
+        if (check_oldfile.length() >= 10000) {
             if (check_oldfile.renameTo(check_newfile)) {
                 //Write_log("");
                 System.out.println("LogProcessCheck Rename succesful");
